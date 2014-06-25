@@ -1,0 +1,626 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"carousel",
+				"carousel-wrapper-large"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"carouse",
+				"carousel-sml"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"repeat",
+				"background-repeat"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"mon",
+				"monoFontFamily"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"create",
+				"createPreloader"
+			],
+			[
+				"mi",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/views/index.html",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mean.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 16972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"utf-8\" />\n        <meta http-equiv=\"Content-Type\" content=\"text/html;charset=UTF-8\" />\n        <title>Dragon Nest - Level Up Events</title>\n        <!--<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>-->\n        <link href='http://fonts.googleapis.com/css?family=Fjalla+One|Droid+Serif' rel='stylesheet' type='text/css'>\n        <link rel=\"shortcut icon\" href=\"http://nxcache.nexon.net/favicon.ico\" />\n        <!--<link type=\"text/css\" rel=\"stylesheet\" href=\"http://nxcache.nexon.net/all/css/all.css\" />-->\n        <link type=\"text/css\" rel=\"stylesheet\" href=\"http://nxcache.nexon.net/dn/microsite/level70/css/main.css\" />\n    </head>\n    <body id=\"skrollr-body\">\n        <div class=\"bodyContent\">\n\n\n            <!-- Row Content Section 1 -->\n                 <div id=\"rc1\" class=\"rc1\">\n                    <img id=\"hero5\" class=\"hero5\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_hero5.jpg\">\n                    <img id=\"hero4\" class=\"hero4\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_hero4.png\"\n                        data-0=\"top: 140px;\" \n                        data-500=\"top: 300px;\">\n                    <img id=\"hero3\" class=\"hero3\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_hero3.png\"\n                        data-0=\"top: 65px;\" \n                        data-700=\"top: 200px;\">\n                    <img id=\"hero2\" class=\"hero2\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_hero2.png\"\n                        data-0=\"top: 370px;\" \n                        data-700=\"top: 600px;\">\n\n                    <a href=\"http://dragonnest.nexon.net/\">\n                        <img id=\"logo\" class=\"logo\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/img_logo.png\" alt=\"Dragon Nest\"\n                            data-0=\"top: 10px;\" \n                            data-700=\"top: 100px;\">\n                    </a>\n                    <img id=\"title\" class=\"title\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/img_title.png\" alt=\"Dragon Nest\"\n                        data-0=\"top: 145px;\" \n                        data-700=\"top: 0px;\">\n\n                    <img id=\"hero1\" class=\"hero1\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_hero1.png\">\n\n                    <a id=\"btn_playVideo\" class=\"vbox btn_playVideo\" href=\"http://www.youtube.com/embed/IA7zwWAje-w?autoplay=1\"\n                        data-0=\"top: 310px;\" \n                        data-700=\"top: -100px;\">\n                            Watch Video\n                    </a>\n                </div>\n            <!-- END: Row Content Section 1 -->\n\n\n            <!-- Nav -->\n                <div id=\"nav\" class=\"nav\">\n                    <div class=\"nav-wrapper\">\n                        <a id=\"rc1-link\" class=\"nav-link active\" href=\"#rc1\">Home</a>\n                        <a id=\"rc2-link\" class=\"nav-link\" href=\"#rc2\">Story</a>\n                        <a id=\"rc3-link\" class=\"nav-link\" href=\"#rc3\">Skills</a>\n                        <a id=\"rc4-link\" class=\"nav-link\" href=\"#rc4\">Dungeons</a>\n                        \n                        <a class=\"spr-btn_yt-normal nav-icon\" target=\"_blank\" href=\"http://youtube.com/dragonnestonline\">\n                            YouTube\n                        </a>\n                        <a class=\"spr-btn_tw-normal nav-icon\" target=\"_blank\" href=\"http://www.twitter.com/DragonNest\">\n                            Twitter\n                        </a>\n                        <a class=\"spr-btn_fb-normal nav-icon\" target=\"_blank\" href=\"http://www.facebook.com/dragonnest\">\n                            Facebook\n                        </a>\n                    </div>\n                </div>\n            <!-- END: Nav -->\n\n\n            <!-- Row Content Section 2 -->\n                <div id=\"rc2\" class=\"rc2 container-fluid\">\n                    <img id=\"rc2-bg\"class=\"bg\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_story.jpg\" />\n                    <div class=\"container\">\n                        <!-- Content -->\n                        <div class=\"content\">\n                            <h3 class=\"spr-txt_header-story\">\n                                Arendel's Destiny\n                            <h3>\n                            <p>\n                                At long last, Jasmine has been defeated. Her clone army has been vanquished and Altera is now washed clean of her poisonous influence. Good and gentle folk from Carderock Pass to Saint's Haven are ready to heave a sigh of relief and return to their daily routines... but dark clouds are rumbling on the horizon. Something evil has descended on the elven kingdom of Arendel...\n                                <br/><br/>\n\n                                Time has finally caught up with the beautiful elf queen and she has begun to grow weak and worn. The Conclave has been called into session, the ceremony by which a new Queen will be chosen, but evil has other plans. \n                                <br/><br/>\n\n                                Level 70 is here and it is up to you to make the journey to Arendel, and prevent the tide of evil from swallowing it whole. \n                            </p>\n                            <ul>\n                                <li class=\"mln\">\n                                    <a class=\"lbox\" href=\"http://nxcache.nexon.net/dn/microsite/level70/media/story1.jpg\">\n                                        <img src=\"http://nxcache.nexon.net/dn/microsite/level70/media/story1-thumb.jpg\" alt=\"Screenshot 1\" />\n                                        <span class=\"bg spr-bg_cover-thumb-hover\"></span>\n                                    </a>\n                                </li>\n                                <li>\n                                    <a class=\"lbox\" href=\"http://nxcache.nexon.net/dn/microsite/level70/media/story2.jpg\">\n                                        <img src=\"http://nxcache.nexon.net/dn/microsite/level70/media/story2-thumb.jpg\" alt=\"Screenshot 2\" />\n                                        <span class=\"bg spr-bg_cover-thumb-hover\"></span>\n                                    </a>\n                                </li>\n                                <li>\n                                    <a class=\"lbox\" href=\"http://nxcache.nexon.net/dn/microsite/level70/media/story3.jpg\">\n                                        <img src=\"http://nxcache.nexon.net/dn/microsite/level70/media/story3-thumb.jpg\" alt=\"Screenshot 3\" />\n                                        <span class=\"bg spr-bg_cover-thumb-hover\"></span>\n                                    </a>\n                                </li>\n                                <li class=\"mrn\">\n                                    <a class=\"lbox\" href=\"http://nxcache.nexon.net/dn/microsite/level70/media/story4.jpg\">\n                                        <img src=\"http://nxcache.nexon.net/dn/microsite/level70/media/story4-thumb.jpg\" alt=\"Screenshot 4\" />\n                                        <span class=\"bg spr-bg_cover-thumb-hover\"></span>\n                                    </a>\n                                </li>\n                            </ul>\n                        </div>\n                    </div>\n                </div>\n            <!-- END: Row Content Section 2 -->\n\n\n            <!-- Row Content Section 3 -->\n                <div id=\"rc3\" class=\"rc3 container-fluid\">\n                    <div class=\"container\">\n                        <!-- Content -->\n                        <div class=\"content\">\n                            <img class=\"fog1\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_fog1.png\" />\n                            <img class=\"fog2\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_fog2.png\" />\n\n                            <div class=\"content-title\">\n                                <h3 class=\"spr-txt_header-skills\">\n                                    Powerful New Skills\n                                </h3>\n                                <p class=\"tac\">\n                                    With evil descending upon Arendel, the bravest adventurers will need a little help taking on new challenges. <br/>\n                                    \n                                    Level up and learn new level 65 and 70 skills to help Arendel choose their new queen!\n                                </p>\n                            </div>\n\n                            <div id=\"character-carousel\" class=\"character-carousel\">\n                                <a class=\"spr-btn_arrow-prev-normal control-prev\" href=\"#\">Prev</a>\n                                <a class=\"spr-btn_arrow-next-normal control-next\" href=\"#\">Next</a>\n\n                                <div>\n                                    <!-- preset active slide -->\n                                    <div class=\"character-wrapper active\" data-character=\"\">\n                                        <div class=\"character-background\"></div>\n                                        <div class=\"character-panel spr-bg_content-wrapper-skills\"></div>\n                                        <div class=\"character\"></div>\n                                        <div class=\"character-emblem\"></div>\n                                        <div class=\"character-emblem-frame spr-bg_cover-class-simbol\"></div>\n                                        <div class=\"character-title\"></div>\n                                        <div class=\"character-icons\"></div>\n                                    </div>\n\n                                    <!-- populated with dynamic content and faded in -->\n                                    <div class=\"character-wrapper inactive\" data-character=\"\">\n                                        <div class=\"character-background\"></div>\n                                        <div class=\"character-panel spr-bg_content-wrapper-skills\"></div>\n                                        <div class=\"character\"></div>\n                                        <div class=\"character-emblem\"></div>\n                                        <div class=\"character-emblem-frame spr-bg_cover-class-simbol\"></div>\n                                        <div class=\"character-title\"></div>\n                                        <div class=\"character-icons\"></div>\n                                    </div>\n\n                                    <!-- storage container of data for carousel -->\n                                    <ul class=\"character-data-container none\">\n                                        <!-- Tinkerer -->\n                                            <li id=\"tinkerer\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-tinkerer.png\" alt=\"Tinkerer\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-tinkerer\">Tinkerer</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-tinkerer\">Tinkerer Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_tinkerer\">Tinkerer Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4>Shooting Star</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage and Alfredo's HP.\">\n                                                                    <span class=\"spr-icon-tinkerer-alfredoexchange\">\n                                                                        Iron Alfredo\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Iron Alfredo\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Chemical Warfare. An extra explosion goes off shortly after impact.\">\n                                                                    <span class=\"spr-icon-tinkerer-chemicalwarfare\">\n                                                                        Chemical Warfare +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Chemical Warfare +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4>Gear Master</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage after summoning a tower.\">\n                                                                    <span class=\"spr-icon-tinkerer-gearsecond\">\n                                                                        Second Gear\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Second Gear\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Kami-quackum. Robo-quackums explode faster. Explosion counts increase and have a wider range.\">\n                                                                    <span class=\"spr-icon-tinkerer-kamiquackum\">\n                                                                        Kami-quackum +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Kami-quackum +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4>Adept</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"After gaining an Alchemy Bubble from fire or ice skills, gain temporary magic damage.\">\n                                                                    <span class=\"spr-icon-tinkerer-elementalharmony\">\n                                                                        Catalyst\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Catalyst\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Ground Zero. The heat from Ground Zero continues to damage nearby enemies.\">\n                                                                    <span class=\"spr-icon-tinkerer-groundzero\">\n                                                                        Ground Zero +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Ground Zero +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4>Physician</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"After gaining an Alchemy Bubble from poison or healing skills, gain temporary magic damage.\">\n                                                                    <span class=\"spr-icon-tinkerer-chemicalharmony\">\n                                                                        Chemical Reaction\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Chemical Reaction\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Toxic Spill. Adds a regular attack and special attack option to the skill. Pressing regular attack deals an additional hit that can hurt enemies immune to poison. Pressing special attack heals nearby allies. The additional attack doesn't use bubbles. Special Attack heal is half of basic damage.\">\n                                                                    <span class=\"spr-icon-tinkerer-toxicspill\">\n                                                                        Toxic Spill +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Toxic Spill +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n\n                                        <!-- Kali -->\n                                            <li id=\"kali\" class=\"none\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-kali.png\" alt=\"Kali\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-kali\">Kali</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-kali\">Kali Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_kali\">Kali Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-kali\">Dark Summoner</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Deals extra damage to enemies further away. Does not apply to Ghost Gate.\">\n                                                                    <span class=\"spr-icon-kali-revengeability\">\n                                                                        Spreading Curse\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Spreading Curse\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Rampage Claw skill. If Regular Attack is pressed after activating the skill, smashes the ground with two fists of dead spirits to knock down enemies.\">\n                                                                    <span class=\"spr-icon-kali-rampageclaw\">\n                                                                        Rampage Claw +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Rampage Claw +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-kali\">Soul Eater</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Deal extra non-elemental damage against cursed enemies.\">\n                                                                    <span class=\"spr-icon-kali-painability\">\n                                                                        Mistress of Pain\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Mistress of Pain\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Beast Spirit. Leaping distance of wolf spirit is decreased. Wolf howls summon 2 additional wolves.\">\n                                                                    <span class=\"spr-icon-kali-spiritwolf\">\n                                                                        Spirit Wolf +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Spirit Wolf +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4 class=\"icon-titles-kali\">Blade Dancer</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Decreases cooldown time of Windcall Twirl.\">\n                                                                    <span class=\"spr-icon-kali-bladeability\">\n                                                                        Blade Tempo\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Blade Tempo\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Chakram Storm. Increase action speed and launches enemies with the last hit.\">\n                                                                    <span class=\"spr-icon-kali-chakramstorm\">\n                                                                        Chakram Storm +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Chakram Storm +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-kali\">Spirit Dancer</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Decreases cooldown time of Illusion Dance.\">\n                                                                    <span class=\"spr-icon-kali-spiritability\">\n                                                                        Spirit Tempo\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Spirit Tempo\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances General Dawnblade. Dawnblade's final attack forms a shock wave that hits enemies within range.\">\n                                                                    <span class=\"spr-icon-kali-generaldawnblade\">\n                                                                        General Dawnblade +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    General Dawnblade +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n\n                                        <!-- Archer -->\n                                            <li id=\"archer\" class=\"none\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-archer.png\" alt=\"Archer\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-archer\">Archer</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-archer\">Archer Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_archer\">Archer Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-archer\">Sniper</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage.\">\n                                                                    <span class=\"spr-icon-archer-physicaldamagemastery\">\n                                                                        Physical Damage Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Physical Damage Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Rain of Arrows. Fires arrows faster for a shorter duration. Pressing the regular attack button will fire a barrage of arrows at once and end the skill.\">\n                                                                    <span class=\"spr-icon-archer-rainofarrows\">\n                                                                        Rain of Arrows +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Rain of Arrows +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-archer\">Warden</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Magic Damage.\">\n                                                                    <span class=\"spr-icon-archer-magicaldamagemastery\">\n                                                                        Magic Damage Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Magic Damage Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Guided Missiles. Fires extra arrows and increases the size of the on-hit explosion.\">\n                                                                    <span class=\"spr-icon-archer-guidedmissiles\">\n                                                                        Guided Missiles +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Guided Missiles +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4 class=\"icon-titles-archer\">Tempest</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage after using Kick Shot or Somersault Dance.\">\n                                                                    <span class=\"spr-icon-archer-physicalsense\">\n                                                                        Pysical Sense\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Pysical Sense\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Furious Winds. Increases Super Armor and leaves a damaging circle of energy behind after each attack.\">\n                                                                    <span class=\"spr-icon-archer-furiouswinds\">\n                                                                        Furious Winds +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Furious Winds +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-archer\">Windwalker</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage after using Air Pounce or Eagle Dive.\">\n                                                                    <span class=\"spr-icon-archer-airsense\">\n                                                                        Air Sense\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Air Sense\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Cyclone Kick. Increases action speed and hit range. Additionally, side kicks hit knocked-down enemies.\">\n                                                                    <span class=\"spr-icon-archer-cyclonekick\">\n                                                                        Cyclone Kick +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Cyclone Kick +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n\n                                        <!-- Warrior -->\n                                            <li id=\"warrior\" class=\"none\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-warrior.png\" alt=\"Warrior\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-warrior\">Warrior</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-warrior\">Warrior Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_warrior\">Warrior Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-warrior\">Gladiator</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage.\">\n                                                                    <span class=\"spr-icon-warrior-physicaldamagemastery\">\n                                                                        Physical Damage Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Physical Damage Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Frenzied Charge. Wind blades deal additional damage to enemies after the charge.\">\n                                                                    <span class=\"spr-icon-warrior-frenziedcharge\">\n                                                                        Frenzied Charge +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Frenzied Charge +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-warrior\">Lunar Knight</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Magic Damage.\">\n                                                                    <span class=\"spr-icon-warrior-magicaldamagemastery\">\n                                                                        Magic Damage Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Magic Damage Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Halfmoon Slash. Increases shock wave range. Hit the regular attack button to unleash an extra shock wave after the first attack.\">\n                                                                    <span class=\"spr-icon-warrior-halfmoonslash\">\n                                                                        Halfmoon Slash +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Halfmoon Slash +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4 class=\"icon-titles-warrior\">Barbarian</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases critical chance after using Battle Howl, Taunting Howl, or Devastating Howl.\">\n                                                                    <span class=\"spr-icon-warrior-criticalmastery\">\n                                                                        Critical Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Critical Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Whirlwind. Increases the spinning speed, which increases the number of hits and hit range.\">\n                                                                    <span class=\"spr-icon-warrior-whirlwind\">\n                                                                        Whirlwind +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Whirlwind +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-warrior\">Destroyer</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Physical Damage after using Battle Howl, Taunting Howl, or Devastating Howl.\">\n                                                                    <span class=\"spr-icon-warrior-powermastery\">\n                                                                        Power Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Power Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Roll Attack. Increases the range and damage of the shock wave.\">\n                                                                    <span class=\"spr-icon-warrior-rollattack\">\n                                                                        Roll Attack +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Roll Attack +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n\n                                        <!-- Sorceress -->\n                                            <li id=\"sorceress\" class=\"none\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-sorceress.png\" alt=\"Sorceress\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-sorceress\">Sorceress</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-sorceress\">Sorceress Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_sorceress\">Sorceress Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-sorceress\">Pyromancer</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Fire Damage.\">\n                                                                    <span class=\"spr-icon-sorceress-flamemastery\">\n                                                                        Flame Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Flame Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Hot Rod. The flaming path explodes after a certain amount of time, dealing extra damage.\">\n                                                                    <span class=\"spr-icon-sorceress-hotrod\">\n                                                                        Hot Rod +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Hot Rod +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-sorceress\">Ice Witch</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Ice Damage.\">\n                                                                    <span class=\"spr-icon-sorceress-frostmastery\">\n                                                                        Frost Mastery\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Frost Mastery\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Chilling Mist. Increases range. Press the normal attack button while casting to scatter sharp ice shards across the ground, dealing extra damage.\">\n                                                                    <span class=\"spr-icon-sorceress-chillingmist\">\n                                                                        Chilling Mist +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Chilling Mist +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4 class=\"icon-titles-sorceress\">War Mage</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Decreases War Mage spell cooldowns.\">\n                                                                    <span class=\"spr-icon-sorceress-timecontroller\">\n                                                                        Time Controller\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Time Controller\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Spectrum Ray. Decreases the casting time and adds an additional laser. The additional laser deals half damage.\">\n                                                                    <span class=\"spr-icon-sorceress-spectrumray\">\n                                                                        Spectrum Ray +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Spectrum Ray +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-sorceress\">Chaos Mage</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Black Hole, Gravity Crush, and Gravity Well and deals extra damage to enemies who resist being held by gravity attacks.\">\n                                                                    <span class=\"spr-icon-sorceress-gravitycontroller\">\n                                                                        Gravity Controller\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Gravity Controller\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Gravity Crush. Move freely while casting. Increases the effective range of the dark sphere and decreases dark defense of enemies.\">\n                                                                    <span class=\"spr-icon-sorceress-gravitycrush\">\n                                                                        Gravity Crush +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Gravity Crush +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n\n                                        <!-- Cleric -->\n                                            <li id=\"cleric\" class=\"none\">\n                                                <div class=\"character-background\">\n                                                    <img src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_class-color-cleric.png\" alt=\"Cleric\" />\n                                                </div>\n                                                <div  class=\"character\">\n                                                    <div class=\"spr-img_character-cleric\">Cleric</div>\n                                                </div>\n                                                <div class=\"character-emblem\">\n                                                    <div class=\"spr-icon-class-cleric\">Cleric Emblem</div>\n                                                </div>\n                                                <div class=\"character-title\">\n                                                    <div class=\"spr-txt_cleric\">Cleric Title</div>\n                                                </div>\n\n                                                <ul class=\"character-icons\">\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-cleric\">Guardian</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"After blocking an enemy attack, gain extra Physical Damage for a short time.\">\n                                                                    <span class=\"spr-icon-cleric-survivalbless\">\n                                                                        Iron Sanctity\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Iron Sanctity\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Divine Punishment. An aura of light surrounds you and deals constant damage to nearby enemies.\">\n                                                                    <span class=\"spr-icon-cleric-divinepunishment\">\n                                                                        Divine Punishment +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Divine Punishment +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-cleric\">Crusader</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"After hitting an enemy with a magic attack, gain temporary Magic Damage.\">\n                                                                    <span class=\"spr-icon-cleric-magicalbless\">\n                                                                        Divine Might\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Divine Might\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Electric Smite. Increases the radius of the initial strike and unleashes additional lightning.\">\n                                                                    <span class=\"spr-icon-cleric-electricsmite\">\n                                                                        Electric Smite +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Electric Smite +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap cl\">\n                                                        <h4 class=\"icon-titles-cleric\">Saint</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Increases Movement Speed after using a relic skill.\">\n                                                                    <span class=\"spr-icon-cleric-reversebless\">\n                                                                        Divine Dash\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Divine Dash\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Bind Relic. Range increases and enemies receive increased physical and magic damage during the duration.\">\n                                                                    <span class=\"spr-icon-cleric-bindrelic\">\n                                                                        Bind Relic +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Bind Relic +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                    <li class=\"character-icons-wrap\">\n                                                        <h4 class=\"icon-titles-cleric\">Inquisitor</h4>\n                                                        <ul>\n                                                            <li class=\"fl\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Deal extra non-elemental damage against electrocuted enemies.\">\n                                                                    <span class=\"spr-icon-cleric-electricbless\">\n                                                                        Blessed Electric\n                                                                    </span>\n                                                                    Lv. 65<br/>\n                                                                    Blessed Electric\n                                                                </a>\n                                                            </li>\n                                                            <li class=\"fr\">\n                                                                <a class=\"tooltip\" href=\"\" data-title=\"Enhances Detonate. Launches extra lightning bolts in different directions.\">\n                                                                    <span class=\"spr-icon-cleric-detonate\">\n                                                                        Detonate +\n                                                                    </span>\n                                                                    Lv. 70<br/>\n                                                                    Detonate +\n                                                                </a>\n                                                            </li>\n                                                        </ul>\n                                                    </li>\n                                                </ul>\n                                            </li>\n                                    </ul>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            <!-- END: Row Content Section 3 -->\n\n\n            <!-- Row Content Section 4 -->\n                <div id=\"rc4\" class=\"rc4 container-fluid\">\n                    <div class=\"container\">\n                        <!-- Content -->\n                        <div class=\"content\">\n                            <h3 class=\"spr-txt_header-dungeon\">New Darkness</h3>\n                            <p>\n                                It is a time of great unrest for the elves of Arendel as they choose their next Queen. To make matters worse, word has arrived that<br/>\n                                the dastardly Apostles have set their sights on this woodland paradise.\n                            </p>\n                            <img class=\"fog3\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_fog2.png\" />\n\n                            <ul id=\"carousel-dungeon\" class=\"carousel-dungeon\">\n                                <li id=\"seaOfDust\">\n                                    <div>\n                                        <img class=\"carousel-dungeon-background\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_boss1.jpg\" alt=\"Sea of Dust\" />\n                                        <img class=\"carousel-dungeon-boss\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/img_character-boss-1.png\" alt=\"Sea of Dust\" />\n                                    </div>\n                                    <h5>Sea of Dust</h5>\n                                    <p>\n                                        Poison is slowly killing the Tree of Life, and as a result this beautiful valley has become<br/>\n                                        a desolate wasteland. A massive scorpion known Antares prowls<br/>\n                                        the land, searching for prey. \n                                    </p>\n                                </li>\n                                <li id=\"halfmoonDesert\">\n                                    <div>\n                                        <img class=\"carousel-dungeon-background\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_boss2.jpg\" alt=\"Halfmoon Desert\" />\n                                        <img class=\"carousel-dungeon-boss\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/img_character-boss-2.png\" alt=\"Halfmoon Desert\" />\n                                    </div>\n                                    <h5>Halfmoon Desert</h5>\n                                    <p>\n                                        As they besiege Arendel, the Dragon Cultists establish a basecamp in this treacherous<br/>\n                                        desert. One of the ancients, the fearsome undead Emperor Sebek, rules this land and<br/>\n                                        commands its forces.  \n                                    </p>\n                                </li>\n                                <li id=\"goldenGrasslands\">\n                                    <div>\n                                        <img class=\"carousel-dungeon-background\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_boss3.jpg\" alt=\"Golden Grasslands\" />\n                                        <img class=\"carousel-dungeon-boss\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/img_character-boss-3.png\" alt=\"Golden Grasslands\" />\n                                    </div>\n                                    <h5>Golden Grasslands</h5>\n                                    <p>\n                                        The Golden Grassland is Arendel's farmland, made up of golden plains of<br/>\n                                        wheat and barley. Bountiful fruit trees also grow here, bearing fruit that<br/>\n                                        the Dragon Cultists and the monsters they command hunger for. Another<br/>\n                                        lieutenant, Vicious Rage, is leading the incursion into this agricultural hub.  \n                                    </p>\n                                </li>\n                                <li id=\"crescentPath\">\n                                    <div>\n                                        <img class=\"carousel-dungeon-background\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_boss4.jpg\" alt=\"Crescent Path\" />\n                                        <img class=\"carousel-dungeon-boss\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/img_character-boss-4.png\" alt=\"Crescent Path\" />\n                                    </div>\n                                    <h5>Crescent Path</h5>\n                                    <p>\n                                        Once a peaceful trade route through the forest, the Crescent Path has <br/>\n                                        succumbed to the power of evil. The wood folk who live here have become corrupted<br/>\n                                        monstrosities that harry any who venture down the trail. A towering were-beast<br/>\n                                        known as the Grizzled Shadow Fury devours unsuspecting travelers.  \n                                    </p>\n                                </li>\n                                <li id=\"valleyOfTheEclipse\">\n                                    <div>\n                                        <img class=\"carousel-dungeon-background\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/bg/bg_boss5.jpg\" alt=\"Valley of the Eclipse\" />\n                                        <img class=\"carousel-dungeon-boss\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/img_character-boss-5.png\" alt=\"Valley of the Eclipse\" />\n                                    </div>\n                                    <h5>Valley of the Eclipse</h5>\n                                    <p>\n                                        In a desperate attempt to restore order, the ailing Elf Queen is dispatching<br/>\n                                        forces to open the mysterious gate inside this wooded valley. Once the<br/>\n                                        guardian of the trees, Gatekeeper Nornird is now rotten to his roots, and<br/>\n                                        is attempting to seal the gate before the Elves can reach it. \n                                    </p>\n                                </li>\n                            </ul>\n\n                            <!-- Carousel Controls -->\n                                <div class=\"carousel-dungeon-nav\">\n                                    <img class=\"carousel-dungeon-nav-frame\" src=\"http://nxcache.nexon.net/dn/microsite/level70/img/sprites/spr/bg_frame-dungeon-selector.png\" />\n                                    <!-- <a class=\"carousel-dungeon-prev\" href=\"\">Prev</a> -->\n                                    <a id=\"seaOfDust-link\" class=\"carousel-dungeon-link spr-btn_dungeon-1-normal\" href=\"seaOfDust\">\n                                        Sea of Dust\n                                    </a>\n                                    <a id=\"halfmoonDesert-link\" class=\"carousel-dungeon-link spr-btn_dungeon-2-normal\" href=\"halfmoonDesert\">\n                                        Halfmoon Desert\n                                    </a>\n                                    <a id=\"goldenGrasslands-link\" class=\"carousel-dungeon-link spr-btn_dungeon-3-normal\" href=\"goldenGrasslands\">\n                                        Golden Grasslands\n                                    </a>\n                                    <a id=\"crescentPath-link\" class=\"carousel-dungeon-link spr-btn_dungeon-4-normal\" href=\"crescentPath\">\n                                        Crescent Path\n                                    </a>\n                                    <a id=\"valleyOfTheEclipse-link\" class=\"carousel-dungeon-link spr-btn_dungeon-5-normal\" href=\"valleyOfTheEclipse\">\n                                        Valley of the Eclipse\n                                    </a>\n                                    <!-- <a class=\"carousel-dungeon-next\" href=\"\">Next</a> -->\n                                </div>\n                            <!-- END Carousel Controls -->\n\n                            <div class=\"footerWrapper\">\n                                <a class=\"spr-btn_gotosite gotosite\" href=\"http://dragonnest.nexon.net\" >\n                                    Continue to Dragon Nest\n                                </a>\n                                <div class=\"mainOverlay\"></div>\n\n                                <div class=\"spr-txt_footer footer\">\n                                    Dragon Nest is available in the United States, Canada, and Oceania.\n\n                                    Nexon | ShandaGames | EyeDentity Games\n\n                                    Copyright 2014 NEXON America Inc. and Shanda Games &amp; Eyedentity Games Inc. All Rights Reserved.\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            <!-- END: Row Content Section 4 -->\n        </div>\n\n        <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\"></script>\n        <script type=\"text/javascript\" src=\"http://nxcache.nexon.net/dn/microsite/level70/js/min/main.min.js\"></script>\n        <!--<script type=\"text/javascript\" src=\"http://nxa-ls.s3.amazonaws.com/js/ls.js\"> </script>-->\n        <!--[if lt IE 9]>\n            <script type=\"text/javascript\" src=\"http://nxcache.nexon.net/dn/microsite/level70teaser/libraries/skrollr/skrollr.ie.js\"></script>\n        <![endif]-->\n        <!--<script type=\"text/javascript\" src=\"http://nxcache.nexon.net/all/js/all.min.js?_t=@(DateTime.Now.ToString(\"yyyyMMddHHmmssffff\"))\"></script>-->\n    </body>\n</html>\n",
+			"file": "/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/index 2.html",
+			"file_size": 78859,
+			"file_write_time": 130392245905884567,
+			"settings":
+			{
+				"buffer_size": 77886,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/index.html",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/terms_conditions.html",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/js/main.js",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/config.rb",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/main.scss",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/css/main.css",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/news.css",
+		"/C/_nodeApps/apps/DragonNest/micro-sites/level70/maplestory.microsite.beast.sublime-workspace",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/_variables.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/oocss/_typography.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/js/gAPI/plugins/gapi.plugin.center.js",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/oocss/_display.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/sprites/_sprites.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/rewrites/_rewrites.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/oocss/_reset.scss",
+		"/C/_nodeApps/apps/CombatArms/micro-sites/nps/sass/oocss/_spacing.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/js/gAPI/extensions/gapi.extension.goToOfficialSite.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/index.html",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/sass/main.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/js/main.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.playButton.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/sass/sprites/_sprites.scss",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/js/gAPI/plugins/gapi.plugin.center.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/css/main.css",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beasttamer/config.rb",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.playButton.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/oocss/_reset.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/rewrites/_rewrites.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/_variables.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/oocss/_typography.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/extensions/gapi.extension.goToOfficialSite.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.center.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.hideaway.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.colorbox.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.backToTopFollowScroll.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/extensions/gapi.extension.wallOfShame.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/main.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/index.html",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/main.min 2.js",
+		"/C/Users/cjanczak/Desktop/dawnveil/index.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/main.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/index.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/js/gAPI/plugins/gapi.plugin.navScrollToId.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/sass/sprites/_sprites.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/beast/config.rb",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/index.html",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/main.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/gAPI/extensions/gapi.extension.goToOfficialSite.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/libraries/_colorbox.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/oocss/_typography.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/main.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/public/js/phase2.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/config.rb",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/index.html",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/gAPI/plugins/gapi.plugin.colorbox.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/oocss/_display.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/gAPI/plugins/gapi.plugin.navScrollToId.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/_variables.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/sprites/_sprites.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/main.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/oocss/_layout.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/maplestory.microsite.red.sublime-workspace",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/ABetterMaple.sublime-workspace",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/sass/libraries/_sticky.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/min/main.min.js",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/hurk/js/gAPI/extensions/gapi.extension.articles.js",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/js/main.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/config.rb",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/public/css/sass/phase2.scss",
+		"/C/Users/cjanczak/_nodeApps/nexon/apps/MapleStory/micro-sites/A-Better-Maple/public/css/sass/phase2.scss",
+		"/C/Users/cjanczak/AppData/Local/Temp/Temp1_crap (2).zip/crap/index.html",
+		"/C/Users/cjanczak/AppData/Local/Temp/Temp1_crap.zip/crap/index.html",
+		"/C/Users/cjanczak/AppData/Local/Temp/Temp1_crap.zip/crap/gapi.plugin.facebook.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.videos.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_display.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.twitter.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.facebook.js",
+		"/C/Users/cjanczak/AppData/Local/Temp/Temp1_crap.zip/crap/gapi.plugin.twitter.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/sprites/_sprites.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_spacing.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/public/phase1.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_layout.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/main.scss",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/gapi.plugin.videos.js",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/page.index.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Unleashed/public/index.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Unleashed/public/js/page.index.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/css/main.css",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/mabinogi.microsite.aces.sublime-workspace",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/libraries/_colorbox.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Dawnveil/config.rb",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/libraries/_jCarousel.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/libraries/colorbox/jquery.colorbox-min.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.colorbox.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.navScrollToId.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/public/css/phase2.css",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/_variables.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/rewrites/_rewrites.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_typography.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/extensions/gapi.extension.articles.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/extensions/gapi.extension.heroBanners.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/variables.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_scaffolding.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/libraries/jcarousel/jquery.jcarousel.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/libraries/jcarousel/jcarousel.simple.js",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/sass/oocss/_reset.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/js/gAPI/plugins/gapi.plugin.cookie.js",
+		"/C/Users/cjanczak/Downloads/main.min (1).js",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/merlin.html",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/Red/mabinogi.microsite.aces.sublime-workspace",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/js/min/main.min.js",
+		"/C/Users/cjanczak/Downloads/main.min.js",
+		"/C/Users/cjanczak/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/RW701X3Y/main.min.js",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/sass/main.scss",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/config.rb",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/_preRelease/sass/main.scss",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/_preRelease/merlin.html",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/img/sprites/spr-s2f2341c62d.png",
+		"/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/merlin.html",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/sass/_variables.scss",
+		"/C/_nodeApps/apps/Mabinogi/micro-sites/Aces/sass/sprites/_sprites.scss",
+		"/C/_nodeApps/apps/Vindictus/micro-sites/loading_ad/sass/main.scss",
+		"/C/_nodeApps/apps/MapleStory/micro-sites/A-Better-Maple/public/js/phase1-5.js",
+		"/C/Users/cjanczak/_nodeApps/nexon/apps/MapleStory/micro-sites/A-Better-Maple/public/js/phase1-5.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\_nodeApps\\apps\\Mabinogi\\micro-sites\\Aces",
+			"C:\\_nodeApps\\apps\\Mabinogi\\micro-sites\\Aces\\img\\sprites\\spr",
+			"<open folders>",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\MapleStory\\micro-sites\\Dawnveil\\public\\css\\sass",
+			"<open folders>",
+			"C:\\_nxcache_archive_",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\Vindictus\\micro-sites\\chainblades",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\CombatArms",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\MapleStory",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\MapleStory\\micro-sites\\Unleashed",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\,C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\Atlantica\\micro-sites\\atlantis",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\CombatArms",
+			"G:\\site\\bidz2013\\js",
+			"C:\\Users\\cjanczak\\_nodeApps\\nexon\\apps\\CombatArms",
+			"<open folders>",
+			"F:\\site",
+			"C:\\Users\\cjanczak\\nodeApps\\nexon_welcome",
+			"C:\\Users\\cjanczak\\nodeApps",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href",
+			".spr-txt_howAreWeDoing",
+			"#news-content",
+			".hide",
+			"vindi",
+			"vindic",
+			"vindicut",
+			"src",
+			".css-checkbox,",
+			"-active",
+			"notshow",
+			"css-checkbox",
+			"btnPlayNow",
+			"vindictus",
+			"nxcache",
+			"play",
+			"coming soon",
+			"’",
+			"also up",
+			".8",
+			"sprite",
+			".video-thumb",
+			"href",
+			"src",
+			"hurk-video-bg",
+			"src",
+			"cookie",
+			".spr-bg_nav",
+			"opacity",
+			"cboxOverlay",
+			".9",
+			".spr-bg_nav",
+			"close",
+			"opacity",
+			"#colorbox",
+			".none",
+			"footer",
+			"1300",
+			"resize",
+			".sticky-wrapper",
+			"mabinogi",
+			"aces",
+			"active",
+			"spr-btn_video",
+			".spr-btn_video",
+			".btn_video",
+			"btn_video",
+			".container",
+			"videowrapperid",
+			"videowrapperidididid",
+			"ul",
+			"expandVideoStream",
+			"cookie",
+			" Tumblr YouTube Twitter Facebook\nGo To Official Site",
+			"opacity",
+			".offset().top",
+			"developer-ico-sml",
+			"src",
+			"vbox",
+			"cboxNext",
+			"cboxClose",
+			".carousel-wrapper-large",
+			"revampedExplorers",
+			"cboxElement",
+			".loadOWR",
+			"cboxElement",
+			"always",
+			"#officialCheck",
+			".top-goToOfficial",
+			"top-goToOfficial",
+			"#video",
+			"the mysterious magician",
+			"bx-controls",
+			"bx-controls bx-has-controls-direction",
+			"href",
+			"spr-img_snapCast",
+			".browser",
+			"videoImg",
+			"$.cookie",
+			".html",
+			"href",
+			"src",
+			".carousel-acc p",
+			".spr-btn_play",
+			"1350",
+			"maplestory",
+			"bg_main.jpg",
+			"bg_main",
+			"notshow",
+			"gotoofficial",
+			"clicked",
+			"footer-logo",
+			".footer",
+			"footer",
+			"cboxprev",
+			"box",
+			"cbox",
+			"btnPlayNow",
+			"myriad",
+			"18px",
+			"'",
+			".top",
+			"top-social",
+			"bx-prev",
+			"bx-next",
+			"wrapper",
+			"backtotop",
+			"spr_global",
+			"main.css",
+			".css",
+			"spr-",
+			"btn_submissionForm.jpg",
+			"30px",
+			"fs li",
+			"li",
+			"*",
+			"’",
+			"\\9",
+			"position: inherit !important\\9",
+			"cboxPrevious",
+			"cboxClose",
+			"background",
+			"cboxCurrent",
+			";\n",
+			".btn-nav",
+			".btn-nav ",
+			"-55",
+			"body {"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/views/index.html",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mean.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 16972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/cjanczak/AppData/Local/Temp/fz3temp-1/index 2.html",
+					"settings":
+					{
+						"buffer_size": 77886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true
+}
